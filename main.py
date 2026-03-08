@@ -1,2 +1,3 @@
 print('Hello world')
-print("Dilshat2011")
+print("Dilshat")
+print("dilshat")
